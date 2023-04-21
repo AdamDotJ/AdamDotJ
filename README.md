@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AdamDotJ
+- 👀 I’m interested in gaming and programming or anything analytical for that matter.
+- 🌱 I’m currently learning how to use and interact with GitHub. Late to the party I know 😄
+- 💞️ I’m looking to collaborate on something useful to expand my programming skills. Something like ClassicPress or AutoGPT or something AI. I don't really know right now.
+- 📫 How to reach me at **adamdotj@gmail.com** assuming it doesn't wind up in my spam folder. No Promises.

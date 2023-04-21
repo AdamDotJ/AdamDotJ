@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AdamDotJ
-- 👀 I’m interested in gaming and programming or anything analytical for that matter.
-- 🌱 I’m currently learning how to use and interact with GitHub. Late to the party I know 😄
-- 💞️ I’m looking to collaborate on something useful to expand my programming skills. Something like ClassicPress or AutoGPT or something AI. I don't really know right now.
-- 📫 How to reach me at **adamdotj@gmail.com** assuming it doesn't wind up in my spam folder. No Promises.
+- 👋 Hi, My online handle is @AdamDotJ, but you can just call me Adam. Also the Reddit & Twitter Handles for @AdamDotJ are **NOT** me. They were scooped up by someone else 😢.
+- 👀 I’m interested mostly in gaming and programming or anything analytical for that matter.
+- 🌱 I’m currently learning how to use and interact with GitHub. I know I'm late to the party 😄.
+- 💞️ I’m not sure what I'm looking to collaborate on at the moment, maybe ClassicPress or something AI related. I have been playing with the Large Language Models recently.
+- 📫 You can reach me at **adamdotj@gmail.com** assuming it doesn't wind up in my spam folder. No Promises.
